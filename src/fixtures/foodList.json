@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "foodId": "1",
+      "foodName": "Mie Goreng",
+      "foodPrice":{
+       "foodPriceId": "1",
+        "price": "10000"
+      }
+    }
+  ]
+}
